@@ -1,2 +1,2 @@
-# aiht2026
-A test repo for aiht2026
+# AIHT 2026
+The repo is used to set up the website required by CMT 
